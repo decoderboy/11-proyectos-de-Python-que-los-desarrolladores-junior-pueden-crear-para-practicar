@@ -1,5 +1,5 @@
 # 11 proyectos de Python que los desarrolladores junior pueden crear para practicar
-Este repositorio contiene los proyectos mencionados en: https://www.freecodecamp.org/espanol/news/11-proyectos-de-python-que-los-desarrolladores-junior-pueden-crear-para-practicar/
+Este repositorio contiene mis soluciones a los proyectos mencionados en: https://www.freecodecamp.org/espanol/news/11-proyectos-de-python-que-los-desarrolladores-junior-pueden-crear-para-practicar/
 1. Par o impar
 2. Juego Mad Libs
 3. Contador de palabras
